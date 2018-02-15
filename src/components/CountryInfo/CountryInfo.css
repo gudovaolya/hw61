@@ -1,0 +1,21 @@
+.country-info{
+    overflow: hidden;
+    padding-bottom: 20px;
+}
+.country-info h1{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.country-info-box{
+    width: 60%;
+    float: left;
+    padding: 20px 0;
+}
+.country-flag{
+    width: 35%;
+    float: right;
+}
+.country-flag img{
+    width: 100%;
+    height: auto;
+}
